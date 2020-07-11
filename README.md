@@ -7,7 +7,7 @@ Due to the agreement with the creators of the orCA Score dataset (https://orcasc
 If you have access to this repo, **please do not share this dataset with anyone.**
 
 # Naming Convention of Dataset
-<will fill when known>
+will fill when known
 
 # Tasks
 - [ ] Organize Datasets
