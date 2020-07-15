@@ -12,7 +12,7 @@ If you have access to this repo, **please do not share this dataset with anyone.
 will fill when known
 
 # Tasks
-- [ ] Organize Datasets
+- [x] Organize Datasets
 - [ ] Figure out how to load data images into python
 - [ ] Image Preprocessing?
 - [ ] Create basic NN
