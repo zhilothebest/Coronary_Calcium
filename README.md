@@ -9,11 +9,12 @@ If you have access to this repo, **please do not share this dataset with anyone.
 ##### At this time, if you would like access to the dataset, please let me know. It is to big to upload
 
 # Naming Convention of Dataset
-will fill when known
+**orCA Score Data Set Naming** 
+The file names are TR for training, TE for testing, V indicated the vendor number (one of four) and P is indeed the patient number for that vendor. CTAI means CT angiography image, CTI means non-contrast CT image. S means segmentation. 
 
 # Tasks
 - [x] Organize Datasets
-- [ ] Figure out how to load data images into python
+- [ x] Figure out how to load data images into python
 - [ ] Image Preprocessing?
 - [ ] Create basic NN
 - [ ] Find Heart specific segmentation
