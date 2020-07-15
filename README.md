@@ -14,7 +14,7 @@ The file names are TR for training, TE for testing, V indicated the vendor numbe
 
 # Tasks
 - [x] Organize Datasets
-- [ x] Figure out how to load data images into python
+- [x] Figure out how to load data images into python
 - [ ] Image Preprocessing?
 - [ ] Create basic NN
 - [ ] Find Heart specific segmentation
