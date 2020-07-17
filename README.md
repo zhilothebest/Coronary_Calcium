@@ -13,6 +13,8 @@ If you have access to this repo, **please do not share this dataset with anyone.
 
 The file names are TR for training, TE for testing, VA for validation. V indicated the vendor number (one of four) and P is indeed the patient number for that vendor. CTAI means CT angiography image, CTI means non-contrast CT image. R means segmentation image.
 
+Please ask if you wish to see orCA Score dataset
+
 # Tasks
 - [x] Organize Datasets
 - [x] Figure out how to load data images into python
