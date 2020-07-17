@@ -11,7 +11,7 @@ If you have access to this repo, **please do not share this dataset with anyone.
 # Naming Convention of Dataset
 **orCA Score Data Set Naming** 
 
-The file names are TR for training, TE for testing, V indicated the vendor number (one of four) and P is indeed the patient number for that vendor. CTAI means CT angiography image, CTI means non-contrast CT image. S means segmentation. 
+The file names are TR for training, TE for testing, V indicated the vendor number (one of four) and P is indeed the patient number for that vendor. CTAI means CT angiography image, CTI means non-contrast CT image. R means segmentation image.
 
 # Tasks
 - [x] Organize Datasets
