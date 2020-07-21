@@ -18,8 +18,8 @@ Please ask if you wish to see orCA Score dataset
 # Tasks
 - [x] Organize Datasets
 - [x] Figure out how to load data images into python
-- [x] Image Preprocessing
+- [x] Image Preprocessing//
 figured out rotation into axial plane. Have a function for changing color to RGB, but need to think about how to make input shape all equal
-- [ ] Create basic NN 
+- [ ] Create basic NN//
 figuring out input shape situation.
 - [ ] Find Heart specific segmentation
