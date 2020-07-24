@@ -17,7 +17,12 @@ Please ask if you wish to see orCA Score dataset
 
 ** StructSeg 2019 Dataset Naming **
 
+There are 4 zip files corresponding to the 4 tasks of the challenge.
 
+Task1_HaN_OAR.zip: Organ-at-risk segmentation from head & neck CT scans. There are 50 folders and each folder contains a data file (data.nii.gz) and an annotation file (label.nii.gz) of one patient. The 22 annotated OARs contain Brain_Stem,Eye_L,Eye_R,Lens_L,Lens_R,Opt_Nerve_L,Opt_Nerve_R,Opt_Chiasma,Temporal_Lobes_L, Temporal_Lobes_R,Pituitary,Parotid_Gland_L,Parotid_Gland_R,Inner_Ear_L,Inner_Ear_R,Mid_Ear_L,Mid_Ear_R, T_M_Joint_L,T_M_Joint_R,Spinal_Cord,Mandible_L,Mandible_R, corresponding to the label 1 to 22 in the annotation file.
+Task2_Naso_GTV.zip: Gross Target Volume segmentation of nasopharynx cancer. Same format as above. The label 1 means GTV of nasopharynx cancer, otherwise background.
+Task3_Thoracic_OAR.zip: Organ-at-risk segmentation from chest CT scans. Same format as above. The 6 annotated OARs contain Lung_L,Lung_R,Heart,Esophagus,Trachea,Spinal_Cord, corresponding to the label 1 to 6 in the annotation file.
+Task4_Lung_GTV.zip: Gross Target Volume segmentation of lung cancer. Same format as above. The label 1 means GTV of lung cancer, otherwise background.
 
 # Tasks
 - [x] Organize Datasets
