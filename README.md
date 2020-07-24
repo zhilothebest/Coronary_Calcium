@@ -15,11 +15,16 @@ The file names are TR for training, TE for testing, VA for validation. V indicat
 
 Please ask if you wish to see orCA Score dataset
 
+** StructSeg 2019 Dataset Naming **
+
+
+
 # Tasks
 - [x] Organize Datasets
 - [x] Figure out how to load data images into python
 - [x] Image Preprocessing//
 figured out rotation into axial plane. Have a function for changing color to RGB, but need to think about how to make input shape all equal
 - [ ] Create basic NN//
-figuring out input shape situation.
-- [ ] Find Heart specific segmentation
+working with TF on error
+- [x] Find Heart specific segmentation
+- [ ] Create NN for Heart Segmentation
