@@ -15,7 +15,7 @@ The file names are TR for training, TE for testing, VA for validation. V indicat
 
 Please ask if you wish to see orCA Score dataset
 
-** StructSeg 2019 Dataset Naming **
+**StructSeg 2019 Dataset Naming**
 
 There are 4 zip files corresponding to the 4 tasks of the challenge.
 
