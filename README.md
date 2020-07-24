@@ -13,7 +13,7 @@ If you have access to this repo, **please do not share this dataset with anyone.
 
 The file names are TR for training, TE for testing, VA for validation. V indicated the vendor number (one of four) and P is indeed the patient number for that vendor. CTAI means CT angiography image, CTI means non-contrast CT image. R means segmentation image.
 
-Please ask if you wish to see orCA Score dataset
+Calcifications in the left main coronary artery were labeled as LAD calcifications. In the labeled images with reference annotations, calcifications are labeled as 1 (LAD), 2 (LCX) or 3 (RCA). 
 
 **StructSeg 2019 Dataset Naming**
 
